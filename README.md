@@ -61,10 +61,6 @@ A full-stack todo application built with FastAPI, PostgreSQL, and JWT authentica
 
 4. Create a `.env` file in the project root (see `.env.example`):
 
-DATABASE_URL=postgresql://user:password@localhost/TodoApplicationDatabase
-SECRET_KEY=your-secret-key-here
-
-
 
 5. Create the database:
 ```bash
