@@ -25,6 +25,13 @@ A full-stack todo application built with FastAPI, PostgreSQL, and JWT authentica
 - **Migrations:** Alembic
 - **Deployment:** Render
 
+## Screenshots
+
+![Login Page](docs/screenshots/login.png)
+![Todo Dashboard](docs/screenshots/dashboard.png)
+![Swagger API Docs](docs/screenshots/swagger.png)
+
+
 
 ## Local Setup
 
