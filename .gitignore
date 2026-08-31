@@ -3,3 +3,4 @@ fastapienv/
 *.db
 .DS_Store
 .env
+/TodoApp/.idea/
