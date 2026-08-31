@@ -1,6 +1,6 @@
 /fastapienv/
 /TodoApp/.env
 /.idea
-/*.db
+/./*.db
 /.DS_Store
 /.env
