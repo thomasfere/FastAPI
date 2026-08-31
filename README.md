@@ -74,7 +74,7 @@ SECRET_KEY=your-secret-key-here
    uvicorn TodoApp.main:app --reload
 ```
 
-Visit `http://localhost:8000` to use the app, or `http://localhost:8000/docs` for the interactive API documentation.
+Visit `http://localhost:8001` to use the app, or `http://localhost:8001/docs` for the interactive API documentation.
 
 ## Running Tests
 
