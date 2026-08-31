@@ -27,9 +27,9 @@ A full-stack todo application built with FastAPI, PostgreSQL, and JWT authentica
 
 ## Screenshots
 
-![Login Page](docs/screenshots/login.png)
-![Todo Dashboard](docs/screenshots/dashboard.png)
-![Swagger API Docs](docs/screenshots/swagger.png)
+![Login Page](./docs/screenshots/login.png)
+![Todo Dashboard](./docs/screenshots/dashboard.png)
+![Swagger API Docs](./docs/screenshots/swagger.png)
 
 
 
